@@ -111,17 +111,6 @@ The lab has two parts:
 - Write the questions in a separate sections, at the end of the `UNDERSTAND.md` file, 
 that has the heading `### More relevant questions`
 
-### Submission
-#### Canvas
-- Convert the two Markdown files to PDF files that render the preview version of the
-original Markdown file. 
-- There are free online services that do the converstion. 
-- My preference is to use `pandoc` tool
-    - Install it on your machine
-    - To convert a Markdown file, the command in a terminal utility is:
-        - `pandoc Q&A.md -o Q&A.pdf`
-- Uplodad both PDFs to the Canvas submission link
-
 #### GitHub
 - Use git version control commands ONLY for the Markdown files and the new notebook. 
 - Before you push commit changes to the new notebook

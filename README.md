@@ -1,4 +1,4 @@
-## Lab 1: Build a Classifier for Hand-Written Digit Images
+## Build a Classifier for Hand-Written Digit Images
 
 ### Purpose
 This lab has three goals, to introduce you to:
@@ -21,19 +21,6 @@ Another goal of the lab is an introduction to a very popular Python package and 
 
 Using VS Code you'll experience how to build a neural AI system with the help of 
 of a professional machine learning framework, Google's TensorFlow, and its Keras library.
-
-### Guidelines
-#### Get the codebase
-- Open a terminal utility: git-bash for Windows or terminal for MacOS/Linux
-- Change directory to home directory
-    - You should have a **comp841** or **comp741** folder for all the programming
-    activities in this class. Otherwise, create one.
-    - We'll call this directory "course root directory"
-- Change directory to course root directory
-- Clone lab1 from GitHub
-    - `git clone <URL of lab1> lab1`
-    - Note the 2nd argument of the `git clone` command
-- Change directory to `lab1`
 
 #### Get ready to configure the Python conda environment
 - Open VS Code
@@ -81,31 +68,3 @@ you might have.
 - Run each code cell
 - Pay attention to the quesitons and challenges. 
 - Determine to what extent the output from running a cell clarifies your questions. 
-
-### Requirements
-The lab has two parts:
-#### Understanding
-- Create an `UNDERSTAND.md` file that has all the questions and challenges from the `digit_classifier.ipynb` notebook.
-- Try to answer the questions
-- Make sure that you give attribution to Copilot when used. 
-    - What prompt did you use? 
-    - What portion of the Copilot answer was relevant to your understanding?
-    - Try to rephrase the answer in your OWN words. 
-- If you use other sources, include the reference of the source. 
-    - Again, try to rephrase the answer in your OWN words. 
-- Challenges are required of graduate students only. 
-    - Undergraduate students are very much welcome to give them a try. 
-
-#### Experimentation
-- Apply the approach used in building this digit classifier to build another classifier. 
-- Use another dataset avaiable through Keras web site, such as CIFAR10 dataset. 
-- Experiment with 2 hidden layers and 3 different batch sizes
-- Record findings from your experiment in a new file, `EXPERIMENT.md`:
-    - How many parameters were adjusted during training?
-    - How long did the training take? 
-    - What loss and accuracy did the model produced? 
-
-
-
-
-

@@ -105,17 +105,7 @@ The lab has two parts:
     - How long did the training take? 
     - What loss and accuracy did the model produced? 
 
-#### Learning
-- What other questions did you have while working on this lab?
-- Think of those questions as building blocks to further improve your understanding of **lab1**. 
-- Write the questions in a separate sections, at the end of the `UNDERSTAND.md` file, 
-that has the heading `### More relevant questions`
 
-#### GitHub
-- Use git version control commands ONLY for the Markdown files and the new notebook. 
-- Before you push commit changes to the new notebook
-    - Make sure you **Clear all outputs** from the notebook
-    - Afte that, stage (`git add`) and `git commit -m ...`
-    - Now, you are ready to `git push origin main`
+
 
 
